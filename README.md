@@ -41,3 +41,23 @@ Compliance Audit: Conduct rigorous testing across different product categories t
 A/B Test Simulation: Use a simulated environment or run small-scale pilots with human evaluators to score the generated variants on metrics like 'Engagement Potential' and 'Clarity' to confirm they are indeed suitable for A/B testing.
 Time-to-Market Metric: Measure the time it takes the AI agent to generate compliant, multi-channel copy variants compared to the manual process, quantifying the time-to-market reduction.
 Action: Gather feedback from marketing copywriters and compliance officers to iterate on the LLM prompts and the refinement module, ensuring the agent provides high-quality, personalized, and fully compliant outputs.
+
+Title:
+
+Consumer Packaged Goods Marketing Content Generator
+
+Problem Statement:
+
+CPG companies require frequent generation of marketing content for diverse products and channels, which is resource-intensive and may lack personalization. Automating content creation with generative Al can accelerate campaigns and tailor messaging to target audiences. However, content must align with brand guidelines and regulatory requirements. An Al agent that produces compliant, engaging marketing copy reduces time-to-market and boosts consumer engagement.
+
+Data Requirements:
+
+Product attribute databases including features, benefits, and usage instructions. Brand style guides and compliance checklists. Existing marketing materials for tone and style reference. Regulatory constraints relevant to product categories.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output:
+
+The deliverable is a content generation tool producing marketing copy in plain text, formatted for various channels. Outputs include multiple content variants for A/B testing and compliance notes. The agent supports exporting content as text files or integrating with CMS platforms.
+
+Be creative to go beyond as you solve the above needs
